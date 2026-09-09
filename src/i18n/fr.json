@@ -1,1 +1,105 @@
-{}
+{
+  "nav": {
+    "home": "Accueil",
+    "travel": "Voyage",
+    "courses": "Cours",
+    "guide": "Guide",
+    "blog": "Blog",
+    "contact": "Contact",
+    "login": "Connexion",
+    "register": "Inscription",
+    "dashboard": "Tableau de bord",
+    "language": "Langue"
+  },
+  "hero": {
+    "title": "God Favor Solution Sarl",
+    "subtitle": "Agence de voyage & formation en langues étrangères",
+    "tagline": "Voyagez autour du monde et maîtrisez les langues avec confiance",
+    "ctaRegister": "S'inscrire",
+    "ctaCourses": "Voir les cours",
+    "ctaContact": "Nous contacter",
+    "announcement": "Un accompagnement humain, du premier échange jusqu'à votre destination.",
+    "badge": "Le divin à votre service !",
+    "headlineLine1": "Partez sereins,",
+    "headlineLine2": "parlez avec confiance."
+  },
+  "company": {
+    "title": "Qui sommes-nous ?",
+    "travel": {
+      "title": "Agence de voyage",
+      "description": "Basée à Etoug-Ebe, Yaoundé (Cameroun), notre agence vous accompagne dans vos projets de voyage et de mobilité internationale. Conseil personnalisé, démarches simplifiées et expérience sur mesure — chaque destination devient une aventure inoubliable.",
+      "cta": "Découvrir nos services"
+    },
+    "languages": {
+      "title": "Formation en langues étrangères",
+      "description": "Anglais, allemand et autres langues — cours en présentiel à Etoug-Ebe ou à distance (texte & vidéo) avec suivi de progression par niveaux (A1 à C2). Un enseignant dédié vous guide jusqu'à la réussite.",
+      "cta": "Voir le catalogue de cours"
+    }
+  },
+  "courses": {
+    "title": "Catalogue de cours",
+    "subtitle": "Choisissez votre langue et votre niveau. De A1 (débutant) à C2 (courant), chaque niveau est validé par une évaluation avant d'accéder au niveau supérieur.",
+    "levels": {
+      "A1": "A1 – Débutant",
+      "A2": "A2 – Sous-agent",
+      "B1": "B1 – Intermédiaire",
+      "B2": "B2 – Autonome",
+      "C1": "C1 – Courant",
+      "C2": "C2 – Maîtrise"
+    },
+    "english": "Anglais (A1 – C2)",
+    "german": "Allemand (A1 – C2)",
+    "cta": "Voir tous les cours"
+  },
+  "guide": {
+    "title": "Guide de voyage",
+    "subtitle": "Conseils, étapes et critères pour bien choisir votre prochaine destination.",
+    "cta": "Lire le guide"
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Actualités, conseils de voyage et astuces linguistiques.",
+    "cta": "Voir tous les articles"
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Une question ? Contactez-nous pour un devis personnalisé ou toute autre demande.",
+    "address": "Etoug-Ebe, Parlement Eto'o, Yaoundé, Cameroun",
+    "email": "contact@godfavor.cm",
+    "phone": "+237 6 99 00 00 00",
+    "cta": "Nous contacter"
+  },
+  "cta": {
+    "title": "Prêt à commencer ?",
+    "subtitle": "Inscrivez-vous en ligne pour un cours de langue, ou contactez-nous pour votre projet de voyage.",
+    "register": "S'inscrire en ligne"
+  },
+  "trust": {
+    "point1": "Accompagnement personnalisé",
+    "point2": "Un seul interlocuteur, deux domaines"
+  },
+  "features": {
+    "online": "Cours en ligne",
+    "offline": "Cours en présentiel",
+    "certificates": "Attestations",
+    "levels": "Progression par niveaux"
+  },
+  "footer": {
+    "company": "God Favor Solution Sarl",
+    "slogan": "Voyage & Langues — Etoug-Ebe, Yaoundé, Cameroun",
+    "rights": "Tous droits réservés.",
+    "nav": "Navigation",
+    "contact": "Contact",
+    "legal": "Mentions légales",
+    "privacy": "Politique de confidentialité"
+  },
+  "buttons": {
+    "viewAll": "Voir tout",
+    "learnMore": "En savoir plus",
+    "submit": "Envoyer",
+    "back": "Retour"
+  },
+  "notFound": {
+    "message": "Oups ! La page que vous recherchez n'existe pas."
+  }
+}

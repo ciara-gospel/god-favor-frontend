@@ -1,1 +1,105 @@
-{}
+{
+  "nav": {
+    "home": "Startseite",
+    "travel": "Reisen",
+    "courses": "Kurse",
+    "guide": "Führer",
+    "blog": "Blog",
+    "contact": "Kontakt",
+    "login": "Anmeldung",
+    "register": "Registrieren",
+    "dashboard": "Dashboard",
+    "language": "Sprache"
+  },
+  "hero": {
+    "title": "God Favor Solution Sarl",
+    "subtitle": "Reiseagentur & Sprachschule",
+    "tagline": "Reisen Sie um die Welt und meistern Sie Sprachen mit Zuversicht",
+    "ctaRegister": "Registrieren",
+    "ctaCourses": "Kurse ansehen",
+    "ctaContact": "Kontaktiere uns",
+    "announcement": "Persönliche Betreuung, vom ersten Gespräch bis zu Ihrem Reiseziel.",
+    "badge": "Exzellenz zu Ihren Diensten",
+    "headlineLine1": "Reisen Sie entspannt,",
+    "headlineLine2": "sprechen Sie mit Zuversicht."
+  },
+  "company": {
+    "title": "Wer sind wir?",
+    "travel": {
+      "title": "Reiseagentur",
+      "description": "In Etoug-Ebe, Yaoundé (Kamerun) unterstützen wir Sie bei Ihren Reise- und Mobilitätsprojekten. Persönliche Beratung, vereinfachte Formalitäten und ein Maß-waren-Erlebnis — jede Destination wird zu einem unvergesslichen Abenteuer.",
+      "cta": "Unsere Dienstleistungen entdecken"
+    },
+    "languages": {
+      "title": "Sprachkurse für ausländische Sprachen",
+      "description": "Englisch, Deutsch und andere Sprachen — Präsenzunterricht in Etoug-Ebe oder online (Text & Video) mit Fortschrittsverfolgung nach Niveaus (A1 bis C2). Ein dedizierter Lehrer begleitet Sie zum Erfolg.",
+      "cta": "Kurskatalog ansehen"
+    }
+  },
+  "courses": {
+    "title": "Kurskatalog",
+    "subtitle": "Wählen Sie Ihre Sprache und Ihr Niveau. Von A1 (Anfänger) bis C2 (Fließend), jedes Niveau wird durch eine Prüfung validiert, bevor Sie zum nächsten Niveau wechseln.",
+    "levels": {
+      "A1": "A1 – Anfänger",
+      "A2": "A2 – Grundstufe",
+      "B1": "B1 – Mittelstufe",
+      "B2": "B2 – Unabhängig",
+      "C1": "C1 – Fließend",
+      "C2": "C2 – Meisterschaft"
+    },
+    "english": "Englisch (A1 – C2)",
+    "german": "Deutsch (A1 – C2)",
+    "cta": "Alle Kurse ansehen"
+  },
+  "guide": {
+    "title": "Reiseführer",
+    "subtitle": "Tipps, Schritte und Kriterien für die Auswahl Ihrer nächsten Reiseziel.",
+    "cta": "Reiseführer lesen"
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Nachrichten, Reisetipps und Sprachlern-Tipps.",
+    "cta": "Alle Artikel ansehen"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "description": "Eine Frage? Kontaktieren Sie uns für ein personalisiertes Angebot oder andere Anfragen.",
+    "address": "Etoug-Ebe, Yaoundé, Kamerun",
+    "email": "contact@godfavor.cm",
+    "phone": "+237 6 99 00 00 00",
+    "cta": "Kontaktiere uns"
+  },
+  "cta": {
+    "title": "Bereit anzufangen?",
+    "subtitle": "Registrieren Sie sich online für einen Sprachkurs oder kontaktieren Sie uns für Ihr Reiseprojekt.",
+    "register": "Online registrieren"
+  },
+  "trust": {
+    "point1": "Persönliche Betreuung",
+    "point2": "Ein Ansprechpartner, zwei Bereiche"
+  },
+  "features": {
+    "online": "Online-Kurse",
+    "offline": "Präsenzunterricht",
+    "certificates": "Zertifikate",
+    "levels": "Niveau-basierte Fortschritte"
+  },
+  "footer": {
+    "company": "God Favor Solution Sarl",
+    "slogan": "Reisen & Sprachen — Etoug-Ebe, Yaoundé, Kamerun",
+    "rights": "Alle Rechte vorbehalten.",
+    "nav": "Navigation",
+    "contact": "Kontakt",
+    "legal": "Rechtliche Hinweise",
+    "privacy": "Datenschutz"
+  },
+  "buttons": {
+    "viewAll": "Alle ansehen",
+    "learnMore": "Mehr erfahren",
+    "submit": "Senden",
+    "back": "Zurück"
+  },
+  "notFound": {
+    "message": "Ups! Die gesuchte Seite existiert nicht."
+  }
+}
